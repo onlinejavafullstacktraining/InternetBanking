@@ -19,6 +19,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<maven.test.skip>true</maven.test.skip>
+		<!-- use this command -Dmaven.test.skip=true to exclude the unit tests -->
 	</properties>
 
 	<dependencies>
